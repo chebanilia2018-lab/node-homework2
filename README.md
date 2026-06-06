@@ -70,7 +70,7 @@ Page Not Found
 
 Ссылка на репозиторий:
 
-https://github.com/your-username/your-repo
+https://github.com/chebanilia2018-lab/node-homework2.git
 
 
 ---
